@@ -1,1 +1,1 @@
-# CSCEA365-Group-Projects
+# CSCE A365 Group Projects
